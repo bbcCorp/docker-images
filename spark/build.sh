@@ -1,0 +1,1 @@
+docker build -t bbccorp/spark:bitnami-spark-3.3-with-postgres .
